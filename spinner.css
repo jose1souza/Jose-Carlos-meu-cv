@@ -9,7 +9,7 @@
   width: 100%;
   height: 100%;
   border: 10px solid transparent;
-  border-top-color: #747070e8;
+  border-top-color: #747070;
   border-radius: 50%;
   animation: spinnerOne 1.2s linear infinite;
 }
